@@ -1,0 +1,2 @@
+# njprojz
+Python Beginner 
